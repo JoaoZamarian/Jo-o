@@ -1,2 +1,2 @@
-# Jo-o
+# Joao
 Meu repositório pessoal
